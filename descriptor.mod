@@ -1,0 +1,15 @@
+version="******"
+tags={
+	"Alternative History"
+}
+name="2eoh"
+supported_version="1.13.7"
+replace_path="common/countries"
+replace_path="events"
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"
+replace_path="map/terrain"
+replace_path="history/states"
+replace_path="history/countries"
+replace_path="history/units"
+replace_path="history/general"

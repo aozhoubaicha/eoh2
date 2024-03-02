@@ -1,0 +1,28 @@
+state = {
+	id = 746
+	name = "STATE_746"
+	manpower = 1730510
+
+	state_category = four
+
+	history = {
+		owner = EOH
+		add_core_of = EOH
+		add_claim_by = QIE
+		add_claim_by = FNG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			9974 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			9974 5
+		}
+	}
+
+	provinces = {
+		9974
+	}
+}

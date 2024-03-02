@@ -1,0 +1,22 @@
+#################汉势力################
+EOH = "countries/Empire of Han.txt"
+JDH = "countries/Jinghai_Duhu.txt"
+MDH = "countries/Mobei_Duhu.txt"
+XDH = "countries/Xiyu_Duhu.txt"
+TDH = "countries/Tubo_Duhu.txt"
+YDH = "countries/Xiayi_Duhu.txt"
+LDH = "countries/Lvsong_Duhu.txt"
+NDH = "countries/Nanyang_Duhu.txt"
+KDH = "countries/Kunlun_Duhu.txt"
+FDH = "countries/Fangzhang_Duhu.txt"
+LCP = "countries/Lanfang_Company.txt
+HCP = "countries/Hejian_Company.txt"
+YCP = "countries/Yuanbei_Company.txt"
+## 朝贡国 ##
+KOK = "countries/Kingdom_of_Korean.txt"
+KOJ = "countries/Kingdom_of_Jap.txt"
+KOL = "countries/Kingdom_of_Laos.txt"
+KOT = "countries/Kingdom_of_Tai.txt"
+KOB = "countries/Kingdom_of_Bagan.txt"
+KOS = "countries/Kingdom_of_Srivijaya.txt"
+KON = "countries/Kingdom_of_Nepal.txt"

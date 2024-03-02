@@ -1,0 +1,17 @@
+state = {
+	id = 1105
+	name = "STATE_1105"
+	manpower = 63000
+
+	state_category = one
+
+	history = {
+		owner = CRO
+		add_core_of = CRO
+		add_claim_by = FIU
+	}
+
+	provinces = {
+		11564
+	}
+}

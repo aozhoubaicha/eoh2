@@ -1,0 +1,63 @@
+﻿capital = 69
+
+oob = "ROD_1947"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 2
+	tech_mountaineers = 2
+}
+set_war_support = 0.7
+set_stability = 0.6
+1936.1.1 = {
+
+	add_political_power = 50
+	add_ideas = {
+	ROD_tian_ming
+	ROD_dong_jin
+}
+	set_technology = {
+		infantry_weapons = 1
+		tech_mountaineers = 1
+
+		#doctrines
+		mass_assault = 1
+		pocket_defence = 1
+		defence_in_depth = 1
+
+		#electronics
+		electronic_mechanical_engineering = 1
+		radio = 1
+		mechanical_computing = 1
+
+		#industry
+		basic_machine_tools = 1
+		improved_machine_tools = 1
+		advanced_machine_tools = 1
+		fuel_silos = 1
+		construction1 = 1
+		dispersed_industry = 1
+	}
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	Gonghe = 100
+}
+
+create_country_leader = {
+	name = "null"
+	desc = "POLITICS_JIGME_WANGCHUCK_DESC"
+	picture =null"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy
+	traits = {
+		#
+	}
+}
